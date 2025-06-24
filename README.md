@@ -1,5 +1,6 @@
 
 # ✋ Math Solver via Hand Gesture
+My first basic project to learn OpenCV and advance python.
 
 A computer vision-based project that reads hand gestures through your webcam and interprets them as mathematical expressions. It then solves the equation in real-time and displays the result.
 
